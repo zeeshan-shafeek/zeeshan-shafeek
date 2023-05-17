@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 Welcome to my GitHub profile! I'm Zeeshan, a passionate full-stack developer with a love for crafting exceptional digital experiences.
 
