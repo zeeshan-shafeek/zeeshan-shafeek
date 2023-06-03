@@ -22,7 +22,7 @@ Check out some of my favorite projects:
 
 I'm always looking to connect with fellow developers and collaborate on exciting projects. Feel free to reach out:
 
-- Email: your-email@example.com
+- Email: zeeshan.shafeek@gmail.com
 - LinkedIn: [ZeeshanShafique](https://www.linkedin.com/in/zeeshanshafique/)
 
 Let's create amazing things together! May the code be with you. 🚀✨
